@@ -25,10 +25,13 @@ DOCUMENTATION:
 ______
 EXAMPLES 
 
-         *https://api.mota-analytica.io/sentiment/I_love_to_hate_corporate_chains_but_I_could_not_find_fault_in_this
-         *https://api.mota-analytica.io/sentiment/I_hated_this_restaurant
-         *https://api.mota-analytica.io/sentiment/They_spilled_coffee_on_my_shirt_I_am_mad
-         *https://api.mota-analytica.io/sentiment/they_made_a_mistake_and_I_was_originally_upset_but_the_management_was_very_professional_and_now_I_am_happy
+*https://api.mota-analytica.io/sentiment/I_love_to_hate_corporate_chains_but_I_could_not_find_fault_in_this
+
+*https://api.mota-analytica.io/sentiment/I_hated_this_restaurant
+         
+*https://api.mota-analytica.io/sentiment/They_spilled_coffee_on_my_shirt_I_am_mad
+         
+*https://api.mota-analytica.io/sentiment/they_made_a_mistake_and_I_was_originally_upset_but_the_management_was_very_professional_and_now_I_am_happy
 
 
 ----------
