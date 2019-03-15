@@ -15,10 +15,21 @@ ______
 * https://api.mota-analytica.io/business/qx6WhZ42eDKmBchZDax4dQ
 * https://api.mota-analytica.io/business/82g1PwX5FvclqqdjJHcVNA
 _____
-## NOTES:   These calls return a JSON file. These JSON files contain 50 reviews, with review text, yelp rating, and sentiment analysis rating.
+NOTES:   These calls return a JSON file. These JSON files contain 50 reviews, with review text, yelp rating, and sentiment analysis rating.
+_________
 
 
 
+
+
+
+
+
+
+
+
+
+___________
 ## Performing Sentiment Analysis On User Input:
 ________
 DOCUMENTATION:
@@ -37,4 +48,4 @@ ______
 
 
 ----------
-## NOTES: These calls return a JSON file. These JSON files contain a single number between 0 and 5. This number represents the predicted review score (X/5 Stars) (edited) 
+ NOTES: These calls return a JSON file. These JSON files contain a single number between 0 and 5. This number represents the predicted review score (X/5 Stars) (edited) 
