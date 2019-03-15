@@ -17,7 +17,8 @@ NOTES:   These calls return a JSON file. These JSON files contain 50 reviews, wi
 
 ## Performing Sentiment Analysis On User Input:
 ________
-DOCUMENTATION:  api.mota-analytica.io/sentiment/(USER_REVIEW_GOES_HERE_SPACES_MUST_BE_UNDERSCORES)
+DOCUMENTATION:
+        api.mota-analytica.io/sentiment/(USER_REVIEW_GOES_HERE_SPACES_MUST_BE_UNDERSCORES)
 ______
 EXAMPLES 
          *https://api.mota-analytica.io/sentiment/I_love_to_hate_corporate_chains_but_I_could_not_find_fault_in_this
