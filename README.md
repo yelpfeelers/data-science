@@ -3,7 +3,7 @@
 
 
 ____
-Getting Review Data:
+## Getting Review Data:
 ________
 DOCUMENTATION : api.mota-analytica.io/business/(BUSINESS_ID_GOES_HERE)
 
@@ -15,7 +15,7 @@ NOTES:   These calls return a JSON file. These JSON files contain 50 reviews, wi
 
 
 
- Performing Sentiment Analysis On User Input:
+## Performing Sentiment Analysis On User Input:
 ________
 DOCUMENTATION:  api.mota-analytica.io/sentiment/(USER_REVIEW_GOES_HERE_SPACES_MUST_BE_UNDERSCORES)
 ______
