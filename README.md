@@ -5,7 +5,8 @@
 ____
 ## Getting Review Data:
 ________
-### DOCUMENTATION : api.mota-analytica.io/business/(BUSINESS_ID_GOES_HERE)
+### DOCUMENTATION : 
+        api.mota-analytica.io/business/(BUSINESS_ID_GOES_HERE)
 ______
 
 ### EXAMPLES  
@@ -24,7 +25,7 @@ DOCUMENTATION:
 
         api.mota-analytica.io/sentiment/(USER_REVIEW_GOES_HERE_SPACES_MUST_BE_UNDERSCORES)
 ______
-EXAMPLES 
+### EXAMPLES 
 
 * https://api.mota-analytica.io/sentiment/I_love_to_hate_corporate_chains_but_I_could_not_find_fault_in_this
 
